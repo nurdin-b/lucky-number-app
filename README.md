@@ -1,4 +1,4 @@
-# lucky-number-app
+# nodejs realtime web socket
  nodejs+express+websocket.io+ejs
  This is learning website the real-time updates and redisplay when new records are added or existing records are updated, you can use WebSocket.io to broadcast changes to connected clients.
 
